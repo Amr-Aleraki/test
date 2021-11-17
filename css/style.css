@@ -1,0 +1,46 @@
+*{
+padding: 0;
+margin: 0;
+}
+body{
+    overflow-x: hidden;
+}
+/*nav logo*/
+.nav-img{
+    width: 150px;
+    height: 80px;
+}
+
+/*nav li*/
+.nav_links li{
+    margin-right: 40px;
+}
+
+/*baner*/
+.baner{
+    height: 600px;
+    background-image: url('../images/baner.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.baner-item{
+   margin-top: 180px;
+}
+
+.baner-item h2{
+     color: white;
+     margin-bottom: 5px;
+}
+
+/*featured*/
+.featured h3{
+    color: rgb(0, 46, 59);
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+/*footer*/
+.icons a{
+    margin-right: 5px;
+}
